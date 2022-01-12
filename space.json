@@ -1,0 +1,16 @@
+{
+ "BSC":[
+  {
+   "spaceName": "VipSwap",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1478179179048759297/1FuLVXai_400x400.jpg",
+   "desc": "VipSwap - A DeFi exchange on Binance Smart Chain (BSC)",
+   "ownerAddress": "0x5e4C27d213587893Daa574F3Be47f588388C46dF",
+   "twitter": "https://twitter.com/",
+   "telegram": "https://t.me",
+   "github": "https://github.com"
+  } 
+ ],
+ "ETH":[],
+ "polygon":[]
+ "time": "2022-01-12"
+}
