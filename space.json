@@ -9,6 +9,15 @@
    "twitter": "https://twitter.com/",
    "telegram": "https://t.me",
    "github": "https://github.com"
+  },
+  {
+   "spaceName": "TestFi Space",
+   "spaceKey": "testfi",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "TestFi - asdlfkasdlfkasdldasjkfhaksjdhfkasdjhfaksjhdfkajsdhfkajsdhfkajhdskfjashkdjfhaskdjfhaksjdfhkajsdfhkajsdhfkjashdfkjashdfkjasdhf",
+   "ownerAddress": "0xC7Ba922b0a038E8d8D1af0E9D0F5e14425Ed71b1",
+   "twitter": "https://twitter.com/",
+   "telegram": "https://t.me"
   } 
  ],
  "ETH":[],
