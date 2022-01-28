@@ -1,18 +1,6 @@
 {
  "BSC":[
   {
-   "spaceName": "CheersLand",
-   "spaceKey": "cheersland",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
-  },
-  {
    "spaceName": "TrustFi",
    "spaceKey": "trustfi",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
@@ -23,22 +11,22 @@
    "telegram":"https://t.me/trustfi_fans",
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
-  } 
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  }
  ],
  "ETH":[
-    {
-   "spaceName": "CheersLand",
-   "spaceKey": "cheersland",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
-  },
-  {
+{
    "spaceName": "TrustFi",
    "spaceKey": "trustfi",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
@@ -49,10 +37,34 @@
    "telegram":"https://t.me/trustfi_fans",
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
-  } 
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  }
  ],
  "polygon":[
-    {
+{
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
    "spaceName": "CheersLand",
    "spaceKey": "cheersland",
    "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
@@ -63,7 +75,9 @@
    "telegram":"https://t.me/cheersland_news",
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
-  },
+  }
+ ],
+ "AVAX":[
   {
    "spaceName": "TrustFi",
    "spaceKey": "trustfi",
@@ -75,7 +89,19 @@
    "telegram":"https://t.me/trustfi_fans",
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
-  } 
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  }
  ],
  "time": "2022-01-12"
 }
