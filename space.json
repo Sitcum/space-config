@@ -247,5 +247,341 @@
    "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
   }
  ],
+ 
+ 
+ 
+ 
+  "OEC":[
+  {
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  },
+  {
+   "spaceName": "Kommunitas",
+   "spaceKey": "kommunitas",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/555.png",
+   "desc": "Kommunitas is the first tierless launchpad on polygon ecosytem.",
+   "ownerAddress": "0x4c66eDBb7fD0567036482D09640ea55cB205Bc0B",
+   "twitter": "https://twitter.com/Kommunitas1?s=20",
+   "website":"https://www.kommunitas.net",
+   "telegram":"https://t.me/Kommunitas",
+   "email":"bizdev@kommunitas.net",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/kommunitas/"
+  },
+  {
+   "spaceName": "MetaverseX",
+   "spaceKey": "metaversex",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/123.png",
+   "desc": "MetaverseX is a decentralized virtual world sandbox building game that supports NFT creation and trading and Play To Earn mode. Anyone can own virtual land in the sandbox world, design and create various buildings and virtual items, and realize the auction and exchange of virtual items through NFT.",
+   "ownerAddress": "0x56A6EFa0565a0832Ee2A593E514a7d0eeaE14797",
+   "twitter": "https://twitter.com/x_metaverse",
+   "website":"https://metax.game",
+   "telegram":"https://t.me/metaX123",
+   "email":"official@metax.game",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/meraversex/"
+  },
+  {
+   "spaceName": "LunaPad",
+   "spaceKey": "lunapad",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
+   "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
+   "twitter": "https://twitter.com/LunaPadOfficial",
+   "website":"https://www.lunapad.co",
+   "telegram":"https://t.me/lunaPad_Ann",
+   "email":"info@lunapad.co",
+   "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
+  }
+ ],
+ 
+ 
+ 
+ 
+ 
+ 
+  "KCC":[
+  {
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  },
+  {
+   "spaceName": "Kommunitas",
+   "spaceKey": "kommunitas",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/555.png",
+   "desc": "Kommunitas is the first tierless launchpad on polygon ecosytem.",
+   "ownerAddress": "0x4c66eDBb7fD0567036482D09640ea55cB205Bc0B",
+   "twitter": "https://twitter.com/Kommunitas1?s=20",
+   "website":"https://www.kommunitas.net",
+   "telegram":"https://t.me/Kommunitas",
+   "email":"bizdev@kommunitas.net",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/kommunitas/"
+  },
+  {
+   "spaceName": "MetaverseX",
+   "spaceKey": "metaversex",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/123.png",
+   "desc": "MetaverseX is a decentralized virtual world sandbox building game that supports NFT creation and trading and Play To Earn mode. Anyone can own virtual land in the sandbox world, design and create various buildings and virtual items, and realize the auction and exchange of virtual items through NFT.",
+   "ownerAddress": "0x56A6EFa0565a0832Ee2A593E514a7d0eeaE14797",
+   "twitter": "https://twitter.com/x_metaverse",
+   "website":"https://metax.game",
+   "telegram":"https://t.me/metaX123",
+   "email":"official@metax.game",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/meraversex/"
+  },
+  {
+   "spaceName": "LunaPad",
+   "spaceKey": "lunapad",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
+   "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
+   "twitter": "https://twitter.com/LunaPadOfficial",
+   "website":"https://www.lunapad.co",
+   "telegram":"https://t.me/lunaPad_Ann",
+   "email":"info@lunapad.co",
+   "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
+  }
+ ],
+ 
+ 
+ 
+ 
+ 
+  "Fantom":[
+  {
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  },
+  {
+   "spaceName": "Kommunitas",
+   "spaceKey": "kommunitas",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/555.png",
+   "desc": "Kommunitas is the first tierless launchpad on polygon ecosytem.",
+   "ownerAddress": "0x4c66eDBb7fD0567036482D09640ea55cB205Bc0B",
+   "twitter": "https://twitter.com/Kommunitas1?s=20",
+   "website":"https://www.kommunitas.net",
+   "telegram":"https://t.me/Kommunitas",
+   "email":"bizdev@kommunitas.net",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/kommunitas/"
+  },
+  {
+   "spaceName": "MetaverseX",
+   "spaceKey": "metaversex",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/123.png",
+   "desc": "MetaverseX is a decentralized virtual world sandbox building game that supports NFT creation and trading and Play To Earn mode. Anyone can own virtual land in the sandbox world, design and create various buildings and virtual items, and realize the auction and exchange of virtual items through NFT.",
+   "ownerAddress": "0x56A6EFa0565a0832Ee2A593E514a7d0eeaE14797",
+   "twitter": "https://twitter.com/x_metaverse",
+   "website":"https://metax.game",
+   "telegram":"https://t.me/metaX123",
+   "email":"official@metax.game",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/meraversex/"
+  },
+  {
+   "spaceName": "LunaPad",
+   "spaceKey": "lunapad",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
+   "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
+   "twitter": "https://twitter.com/LunaPadOfficial",
+   "website":"https://www.lunapad.co",
+   "telegram":"https://t.me/lunaPad_Ann",
+   "email":"info@lunapad.co",
+   "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
+  }
+ ],
+ 
+ 
+ 
+ 
+ 
+ 
+  "HECO":[
+  {
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  },
+  {
+   "spaceName": "Kommunitas",
+   "spaceKey": "kommunitas",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/555.png",
+   "desc": "Kommunitas is the first tierless launchpad on polygon ecosytem.",
+   "ownerAddress": "0x4c66eDBb7fD0567036482D09640ea55cB205Bc0B",
+   "twitter": "https://twitter.com/Kommunitas1?s=20",
+   "website":"https://www.kommunitas.net",
+   "telegram":"https://t.me/Kommunitas",
+   "email":"bizdev@kommunitas.net",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/kommunitas/"
+  },
+  {
+   "spaceName": "MetaverseX",
+   "spaceKey": "metaversex",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/123.png",
+   "desc": "MetaverseX is a decentralized virtual world sandbox building game that supports NFT creation and trading and Play To Earn mode. Anyone can own virtual land in the sandbox world, design and create various buildings and virtual items, and realize the auction and exchange of virtual items through NFT.",
+   "ownerAddress": "0x56A6EFa0565a0832Ee2A593E514a7d0eeaE14797",
+   "twitter": "https://twitter.com/x_metaverse",
+   "website":"https://metax.game",
+   "telegram":"https://t.me/metaX123",
+   "email":"official@metax.game",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/meraversex/"
+  },
+  {
+   "spaceName": "LunaPad",
+   "spaceKey": "lunapad",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
+   "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
+   "twitter": "https://twitter.com/LunaPadOfficial",
+   "website":"https://www.lunapad.co",
+   "telegram":"https://t.me/lunaPad_Ann",
+   "email":"info@lunapad.co",
+   "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
+  }
+ ],
+ 
+ 
+ 
+ 
+ 
+  "GateChain":[
+  {
+   "spaceName": "TrustFi",
+   "spaceKey": "trustfi",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+   "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+   "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+   "twitter": "https://twitter.com/trustfiorg",
+   "website":"https://trustfi.org/",
+   "telegram":"https://t.me/trustfi_fans",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+   "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+  },
+  {
+   "spaceName": "CheersLand",
+   "spaceKey": "cheersland",
+   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
+   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
+   "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+   "twitter": "https://twitter.com/cheers_land",
+   "website":"https://cheersland.org/",
+   "telegram":"https://t.me/cheersland_news",
+   "email":"info@cheersland.org",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
+  },
+  {
+   "spaceName": "Kommunitas",
+   "spaceKey": "kommunitas",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/555.png",
+   "desc": "Kommunitas is the first tierless launchpad on polygon ecosytem.",
+   "ownerAddress": "0x4c66eDBb7fD0567036482D09640ea55cB205Bc0B",
+   "twitter": "https://twitter.com/Kommunitas1?s=20",
+   "website":"https://www.kommunitas.net",
+   "telegram":"https://t.me/Kommunitas",
+   "email":"bizdev@kommunitas.net",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/kommunitas/"
+  },
+  {
+   "spaceName": "MetaverseX",
+   "spaceKey": "metaversex",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/123.png",
+   "desc": "MetaverseX is a decentralized virtual world sandbox building game that supports NFT creation and trading and Play To Earn mode. Anyone can own virtual land in the sandbox world, design and create various buildings and virtual items, and realize the auction and exchange of virtual items through NFT.",
+   "ownerAddress": "0x56A6EFa0565a0832Ee2A593E514a7d0eeaE14797",
+   "twitter": "https://twitter.com/x_metaverse",
+   "website":"https://metax.game",
+   "telegram":"https://t.me/metaX123",
+   "email":"official@metax.game",
+   "coinmarketcap":"https://coinmarketcap.com/currencies/meraversex/"
+  },
+  {
+   "spaceName": "LunaPad",
+   "spaceKey": "lunapad",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
+   "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
+   "twitter": "https://twitter.com/LunaPadOfficial",
+   "website":"https://www.lunapad.co",
+   "telegram":"https://t.me/lunaPad_Ann",
+   "email":"info@lunapad.co",
+   "coingecko":"https://www.coingecko.com/en/coins/luna-pad"
+  }
+ ],
  "time": "2022-01-12"
 }
