@@ -51,7 +51,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -263,18 +263,6 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
 
@@ -284,7 +272,7 @@
  
  ],
  "ETH":[
-{
+  {
    "spaceName": "TrustFi",
    "spaceKey": "trustfi",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
@@ -335,7 +323,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -356,7 +344,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-     {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -380,7 +368,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/duet-protocol/markets/",
    "coingecko":"https://www.coingecko.com/en/coins/duet-protocol#markets"
   },
-   {
+    {
    "spaceName": "Peoplez",
    "spaceKey": "Peoplez",
    "logoUrl": "https://pbs.twimg.com/profile_images/1432822361720504322/FZ5uEjuB_400x400.jpg",
@@ -415,7 +403,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -443,7 +431,7 @@
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -451,7 +439,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -475,6 +463,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -488,7 +477,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-   },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -500,11 +489,11 @@
    "telegram":"https://t.me/nomadlandofficial",
    "email":"office@nomadland.to",
    "coinmarketcap":"https://coinmarketcap.com/currencies/nomadland/"
- },
+  },
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -537,7 +526,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -546,26 +535,16 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
   
   
  
  ],
  "polygon":[
-{
+  {
    "spaceName": "TrustFi",
    "spaceKey": "trustfi",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
@@ -616,7 +595,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -637,7 +616,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-     {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -661,7 +640,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/duet-protocol/markets/",
    "coingecko":"https://www.coingecko.com/en/coins/duet-protocol#markets"
   },
-   {
+    {
    "spaceName": "Peoplez",
    "spaceKey": "Peoplez",
    "logoUrl": "https://pbs.twimg.com/profile_images/1432822361720504322/FZ5uEjuB_400x400.jpg",
@@ -672,7 +651,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -696,7 +675,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -720,11 +699,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-      },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -732,7 +711,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -756,6 +735,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -769,7 +749,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -781,11 +761,11 @@
    "telegram":"https://t.me/nomadlandofficial",
    "email":"office@nomadland.to",
    "coinmarketcap":"https://coinmarketcap.com/currencies/nomadland/"
- },
+  },
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -818,7 +798,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -827,20 +807,12 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
+  
+  
  
  ],
  "AVAX":[
@@ -895,7 +867,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -940,7 +912,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/duet-protocol/markets/",
    "coingecko":"https://www.coingecko.com/en/coins/duet-protocol#markets"
   },
-   {
+    {
    "spaceName": "Peoplez",
    "spaceKey": "Peoplez",
    "logoUrl": "https://pbs.twimg.com/profile_images/1432822361720504322/FZ5uEjuB_400x400.jpg",
@@ -951,7 +923,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -975,7 +947,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -999,11 +971,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-      },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -1035,6 +1007,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -1048,7 +1021,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -1060,11 +1033,11 @@
    "telegram":"https://t.me/nomadlandofficial",
    "email":"office@nomadland.to",
    "coinmarketcap":"https://coinmarketcap.com/currencies/nomadland/"
- },
+  },
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -1097,7 +1070,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -1106,23 +1079,13 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
+  
+  
  
-  
-  
  ],
   "OEC":[
   {
@@ -1176,7 +1139,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -1196,8 +1159,8 @@
    "telegram":"https://t.me/metapplay",
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
-  }, 
-     {
+  },
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -1209,7 +1172,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
   },
-   {
+  {
    "spaceName": "Duet Protocol",
    "spaceKey": "duet",
    "logoUrl": "https://pbs.twimg.com/profile_images/1494581293493141505/ere1s1UK_400x400.png",
@@ -1256,7 +1219,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -1280,11 +1243,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-     },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -1292,7 +1255,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -1305,7 +1268,7 @@
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   },
-    {
+   {
    "spaceName": "Sugar Kingdom",
    "spaceKey": "SugarKingdom",
    "logoUrl": "https://pbs.twimg.com/profile_images/1496227419946197000/moFw6y3p_400x400.png",
@@ -1316,6 +1279,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -1329,7 +1293,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -1345,7 +1309,7 @@
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -1378,7 +1342,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -1387,20 +1351,11 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
+  
   
  
  ],
@@ -1460,7 +1415,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -1481,7 +1436,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-     {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -1493,7 +1448,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
   },
-   {
+  {
    "spaceName": "Duet Protocol",
    "spaceKey": "duet",
    "logoUrl": "https://pbs.twimg.com/profile_images/1494581293493141505/ere1s1UK_400x400.png",
@@ -1516,7 +1471,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -1540,7 +1495,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -1568,7 +1523,7 @@
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -1576,7 +1531,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -1589,7 +1544,7 @@
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   },
-    {
+   {
    "spaceName": "Sugar Kingdom",
    "spaceKey": "SugarKingdom",
    "logoUrl": "https://pbs.twimg.com/profile_images/1496227419946197000/moFw6y3p_400x400.png",
@@ -1600,6 +1555,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -1613,7 +1569,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -1629,7 +1585,7 @@
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -1662,7 +1618,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -1671,21 +1627,13 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
   
+  
+  
+ 
  ],
  
  
@@ -1744,7 +1692,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -1765,7 +1713,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-   {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -1777,7 +1725,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
   },
-   {
+  {
    "spaceName": "Duet Protocol",
    "spaceKey": "duet",
    "logoUrl": "https://pbs.twimg.com/profile_images/1494581293493141505/ere1s1UK_400x400.png",
@@ -1800,7 +1748,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -1824,7 +1772,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -1848,11 +1796,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-     },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -1860,7 +1808,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -1873,7 +1821,7 @@
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   },
-    {
+   {
    "spaceName": "Sugar Kingdom",
    "spaceKey": "SugarKingdom",
    "logoUrl": "https://pbs.twimg.com/profile_images/1496227419946197000/moFw6y3p_400x400.png",
@@ -1884,6 +1832,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -1897,7 +1846,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -1913,7 +1862,7 @@
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -1946,7 +1895,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -1955,20 +1904,12 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
+  
+  
  
  ],
  
@@ -2029,7 +1970,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -2050,7 +1991,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-  {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -2062,7 +2003,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
   },
-   {
+  {
    "spaceName": "Duet Protocol",
    "spaceKey": "duet",
    "logoUrl": "https://pbs.twimg.com/profile_images/1494581293493141505/ere1s1UK_400x400.png",
@@ -2085,7 +2026,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -2109,7 +2050,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -2133,11 +2074,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-     },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -2145,7 +2086,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -2158,7 +2099,7 @@
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   },
-    {
+   {
    "spaceName": "Sugar Kingdom",
    "spaceKey": "SugarKingdom",
    "logoUrl": "https://pbs.twimg.com/profile_images/1496227419946197000/moFw6y3p_400x400.png",
@@ -2169,6 +2110,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -2182,7 +2124,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -2194,11 +2136,11 @@
    "telegram":"https://t.me/nomadlandofficial",
    "email":"office@nomadland.to",
    "coinmarketcap":"https://coinmarketcap.com/currencies/nomadland/"
- },
+  },
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -2231,7 +2173,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -2240,20 +2182,12 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
+
+  
+  
+  
  
  ],
  
@@ -2313,7 +2247,7 @@
   {
    "spaceName": "LunaPad",
    "spaceKey": "lunapad",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1448503265084252163/ch9pUzUD_400x400.jpg",
+   "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/lunapad.png",
    "desc": "Luna-Pad is peer to peer innovative Launchpad to launch new projects in TerraLuna ecosystem & Binance smart chain.",
    "ownerAddress": "0xe67B90204671811502fAB92918ceB7964da05C56",
    "twitter": "https://twitter.com/LunaPadOfficial",
@@ -2334,7 +2268,7 @@
    "email":"metaverse@metapplay.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metapplay/"
   },
-   {
+    {
    "spaceName": "IDO Tiers",
    "spaceKey": "idotiers",
    "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/ido+tier/ea20103d4351ce4a009073615ed7b26+-+TrustFi+DAO(1).jpg",
@@ -2346,7 +2280,7 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
    "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
   },
-   {
+  {
    "spaceName": "Duet Protocol",
    "spaceKey": "duet",
    "logoUrl": "https://pbs.twimg.com/profile_images/1494581293493141505/ere1s1UK_400x400.png",
@@ -2369,7 +2303,7 @@
    "telegram":"https://t.me/Peoplez_io",
    "email":"info@peoplez.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/peoplez/"
-   },
+  },
     {
    "spaceName": "Okratech Token",
    "spaceKey": "okratech",
@@ -2393,7 +2327,7 @@
    "telegram":"https://t.me/metafighter_official",
    "email":"contact@metafighter.com",
    "coinmarketcap":"http://coinmarketcap.com/currencies/metafighter/"
-   },
+  },
    {
    "spaceName": "Dx Spot",
    "spaceKey": "dxspot",
@@ -2417,11 +2351,11 @@
    "telegram":"https://t.me/metachess_network",
    "email":"jephtah@metachess.network",
    "coinmarketcap":"https://coinmarketcap.com/currencies/metachess/ico/"
-     },
+    },
   {
    "spaceName": "Scorefam",
    "spaceKey": "Scorefam",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1624922188573773824/X6J0NeiU_400x400.jpg",
    "desc": "Scorefam is a P2E & NFT-based sport gaming platform where users earn by predicting and staking, engaging in the football fantasy league and trading NFT player cards with ease.",
    "ownerAddress": "0xe73697860C0946bC73CA331eADB205D628663152",
    "twitter": "https://twitter.com/scorefamsports",
@@ -2429,7 +2363,7 @@
    "telegram":"https://t.me/scorefam",
    "discord":"https://dsc.gg/scorefam-org",
    "email":"simisoluwa@scorefam.org"
-   },
+  },
   {
    "spaceName": "CHEERS IGO Tiers",
    "spaceKey": "CheersIGOTiers",
@@ -2442,7 +2376,7 @@
    "email":"info@cheersland.org",
    "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   },
-    {
+   {
    "spaceName": "Sugar Kingdom",
    "spaceKey": "SugarKingdom",
    "logoUrl": "https://pbs.twimg.com/profile_images/1496227419946197000/moFw6y3p_400x400.png",
@@ -2453,6 +2387,7 @@
    "telegram":"https://t.me/SugarKingdomOfficialChat",
    "email":"official@sugarkingdom.io",
    "coinmarketcap":"https://coinmarketcap.com/currencies/sugar-kingdom/"
+  
   },
    {
    "spaceName": "Graviton Zero",
@@ -2466,7 +2401,7 @@
    "email":"info@gravitonzero.com",
    "coinmarketcap":"https://coinmarketcap.com/currencies/graviton-zero/"
   
-    },
+  },
   {
    "spaceName": "NOMADLAND",
    "spaceKey": "NOMADLAND",
@@ -2482,7 +2417,7 @@
   {
    "spaceName": "RacewayX",
    "spaceKey": "racewayx",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1553147642909278209/Kq7PbuNk_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1566381689147981824/crRBVech_400x400.jpg",
    "desc": "RacewayX is a multi-chain NFT driven strategy-based car racing game with blockchain-powered economy and prize pool redistribution contracts. Players can earn either by playing the game or owning parts of the game with ownable parts of the game in the form of verifiable NFTs.  The gameplay is purely based on physics and player strategy with no physical controls. To play the game, you will need to own a car NFT, selecting a racetrack and ensure you have or buy the required level of gas for the race, choose your race strategy, and view the results.",
    "ownerAddress": "0x9B7201aBE8159FAe2838e0A2D6f74cf7361a6908",
    "twitter": "https://twitter.com/RacewayXMeta",
@@ -2515,7 +2450,7 @@
   {
    "spaceName": "Little Rabbit",
    "spaceKey": "littlerabbit",
-   "logoUrl": "https://pbs.twimg.com/profile_images/1390314102409494529/B-4xq9gV_400x400.jpg",
+   "logoUrl": "https://pbs.twimg.com/profile_images/1611710554225389568/4HJLI854_400x400.jpg",
    "desc": "LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
    "ownerAddress": "0x00D8c8e2258f3034a028EdD1c7f19573A7147795",
    "twitter": "https://twitter.com/ltrbttwt",
@@ -2524,21 +2459,13 @@
    "coinmarketcap":"https://coinmarketcap.com/currencies/little-rabbit-v2/",
    "coingecko":"https://www.coingecko.com/en/coins/little-rabbit-v2",
    "discord":""
-  },
-  {
-   "spaceName": "CheersLand Test",
-   "spaceKey": "cheerslandtest",
-   "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/3.png",
-   "desc": "CheersLand is a scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks and let games earn diversified rewards through skill-based gameplay and contributions to the ecosystem. This is GameFi-as-a-Service (GaaS) Model, driven by Play-to-Earn and Build-to-Earn mechanics with the product portfolio of Gamified Launchpad, Multi-game Universe, Multi-asset Staking Platform, and NFT Market. CheersLand is owned and governed by $CHEERS Holders.",
-   "ownerAddress": "0x5D3bf004CABCF7634177bfdc811d09b4E9bCF1c1",
-   "twitter": "https://twitter.com/cheers_land",
-   "website":"https://cheersland.org/",
-   "telegram":"https://t.me/cheersland_news",
-   "email":"info@cheersland.org",
-   "coinmarketcap":"https://coinmarketcap.com/currencies/cheersland/"
   }
 
 
+  
+  
+  
+ 
  ],
  "time": "2022-01-12"
 }
